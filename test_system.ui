@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>900</width>
+    <height>500</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Тест система</string>
+  </property>
+  <widget class="QPushButton" name="btn_upl_test">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>20</y>
+     <width>101</width>
+     <height>34</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Загрузить тест</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_start_test">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>20</y>
+     <width>101</width>
+     <height>34</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Начать тест</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_q">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>60</y>
+     <width>871</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Вопрос появится здесь</string>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="v_1">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>100</y>
+     <width>101</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Вариант &amp;1</string>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="v_2">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>130</y>
+     <width>101</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Вариант &amp;2</string>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="v_3">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>160</y>
+     <width>101</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Вариант &amp;3 </string>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="v_4">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>190</y>
+     <width>101</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Вариант &amp;4</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_otvet">
+   <property name="geometry">
+    <rect>
+     <x>7</x>
+     <y>240</y>
+     <width>890</width>
+     <height>34</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Ответить</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_finish_test">
+   <property name="geometry">
+    <rect>
+     <x>7</x>
+     <y>280</y>
+     <width>890</width>
+     <height>34</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Завершить тестирование</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>7</x>
+     <y>317</y>
+     <width>821</width>
+     <height>181</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

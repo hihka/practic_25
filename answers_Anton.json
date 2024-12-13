@@ -1,0 +1,19 @@
+{
+    "user_answers": [
+        {
+            "question": "Физика – это ...",
+            "user_answer": "наука о природе",
+            "correct_answer": "наука о природе"
+        },
+        {
+            "question": "Предел интегральной сумы есть ...",
+            "user_answer": "определённый интеграл",
+            "correct_answer": "определённый интеграл"
+        }
+    ],
+    "user_name": "Anton",
+    "count_questions": 2,
+    "count_correct_answers": 2,
+    "count_wrong_answers": 0,
+    "count_skipped_answers": 0
+}
